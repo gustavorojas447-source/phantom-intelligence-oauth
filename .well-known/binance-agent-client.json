@@ -1,0 +1,15 @@
+{
+  "client_id": "https://gustavorojas447-source.github.io/phantom-intelligence-oauth/.well-known/binance-agent-client.json",
+  "client_name": "Phantom Intelligence V3 Read Only",
+  "redirect_uris": [
+    "http://127.0.0.1:8134/callback"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "market account"
+}
